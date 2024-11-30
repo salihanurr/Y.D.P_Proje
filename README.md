@@ -3,6 +3,9 @@
 Saliha Nur Çelik
 202113172039
 
+kaggle proje linki:
+https://www.kaggle.com/code/salihanur/proje-11
+
 Proje Raporu: Görüntü İşleme ve Gelecek Tahminleme ile Kirli ve Temiz Görsellerin Sınıflandırılması
 
 1. Giriş:
